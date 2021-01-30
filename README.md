@@ -1,13 +1,13 @@
 ## DJANGO REST FRAMEWORK - DRF
 
-#Requirements
+# Requirements
 REST framework requires the following:
 
 - Python (3.5, 3.6, 3.7, 3.8, 3.9)
 - Django (2.2, 3.0, 3.1)
 We highly recommend and only officially support the latest patch release of each Python and Django series.
 
-#The following packages are optional:
+# The following packages are optional:
 
 - PyYAML, uritemplate (5.1+, 3.0.0+) - Schema generation support.
 - Markdown (3.0.0+) - Markdown support for the browsable API.
@@ -15,7 +15,7 @@ We highly recommend and only officially support the latest patch release of each
 - django-filter (1.0.1+) - Filtering support.
 - django-guardian (1.1.1+) - Object level permissions support.
 
-#Installation
+# Installation
 -Install using pip, including any optional packages you want...
 
 -pip install djangorestframework
